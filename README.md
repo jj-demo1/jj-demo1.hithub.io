@@ -1,4 +1,4 @@
-# 就労継続支援B型事業所 じゆうじざい
+# じゆうじざい
 <img id="thumbnail" src="./img/user.png" width="256px" />
 
 ○○県で就労継続支援の事業所を開所しています。
